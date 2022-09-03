@@ -6,7 +6,7 @@ Need to settle a debate on the best football team over the last month? Look no f
 
 To build and compile the source code:
 
-1. Acquire the `app_config.dart` file from the repo owner.
+1. Acquire the `app_config.dart` file from the repo owner (can you please provide your mail?).
 2. Place said file under `lib/utils/` folder.
 3. `flutter run`
 4. Done!
